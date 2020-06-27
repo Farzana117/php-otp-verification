@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>E-learning</title>
+  <title>SMS OTP Verification</title>
 <style type="text/css">
   *{
     box-sizing: border-box;
