@@ -46,7 +46,7 @@
 		{
 			require('textlocal.class.php');
 
-			$textlocal = new Textlocal(false,false,'5N03M+amU48-hTtqM6RCrtlOYK2A0YLjMEDwGjoMSz');
+			$textlocal = new Textlocal(false,false,'nmPZAohNnwg-2m3wIDyMHuMpKD8zbbGcRJqDGut7J4');
 
 			$numbers = array($_POST["number"]);
 			$sender = 'TXTLCL';
